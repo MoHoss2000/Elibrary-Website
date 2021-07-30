@@ -1,0 +1,16 @@
+[
+    {
+        "username": "mohamed",
+        "password": "1234",
+        "wishList": [
+            {
+                "title": "Lord of the Flies",
+                "path": "flies"
+            },
+            {
+                "title": "The Grapes of Wrath",
+                "path": "grapes"
+            }
+        ]
+    }
+]
